@@ -1,0 +1,10 @@
+server:
+  port: 30080
+
+spring:
+  dubbo:
+    application:
+      name: registry-api-web
+    registry:
+      address: zookeeper://139.196.158.120:22181
+    scan: edu.storage.controller
