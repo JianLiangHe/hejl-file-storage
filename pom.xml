@@ -30,5 +30,6 @@
   	<module>hejl-file-storage-registry-service</module>
   	<module>hejl-file-storage-registry-service-impl</module>
   	<module>hejl-file-storage-util</module>
+  	<module>hejl-file-storage-pojo</module>
   </modules>
 </project>

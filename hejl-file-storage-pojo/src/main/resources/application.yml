@@ -1,0 +1,8 @@
+generator:
+  output_dir: E:/devrepository/fs/hejl-file-storage/hejl-file-storage-pojo/src/main/java/
+  database_ip: 106.14.123.81
+  database_name: hejl-file-storage
+  parent: edu.storage.pojo
+  author: hejianliang
+  database_username: root
+  database_username_pwd: Master555_
