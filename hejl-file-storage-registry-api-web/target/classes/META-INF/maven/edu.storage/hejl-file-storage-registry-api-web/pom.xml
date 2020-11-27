@@ -31,6 +31,18 @@
         <artifactId>spring-boot-starter-dubbo</artifactId>
         <version>1.0.0</version>
     </dependency>
+    
+    <!-- 项目依赖 -->
+    <dependency>
+    	<groupId>edu.storage</groupId>
+    	<artifactId>hejl-file-storage-registry-service-impl</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+    	<groupId>edu.storage</groupId>
+    	<artifactId>hejl-file-storage-util</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+    </dependency>
   </dependencies>
   
   <build/>

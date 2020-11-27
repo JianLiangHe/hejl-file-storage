@@ -4,7 +4,7 @@ server:
 spring:
   dubbo:
     application:
-      name: registry-api-web
+      name: registry-service-consumer
     registry:
       address: zookeeper://139.196.158.120:22181
     scan: edu.storage.controller
