@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: hejl-file-storage-util
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: hejianliang
+Built-By: Administrator
 Implementation-Vendor-Id: edu.storage
-Build-Jdk: 1.8.0_221
+Build-Jdk: 1.8.0_112
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/hejl-file-storage/hejl-file-storage-util
 Created-By: Maven Integration for Eclipse

@@ -16,7 +16,6 @@ public class RegistryController {
 	@Reference
 	private RegistryService registryService;
 	
-	
 	@RequestMapping(value = "test", method = RequestMethod.GET)
 	public ApiResponse test() {
 		String result = registryService.registryTest();
